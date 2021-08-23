@@ -1,9 +1,9 @@
 ## Tailwind Starter Pack
 
-Install 
-Latest version of Tailwind
-Latest version of PostCss
-Latest version of autoprefixer
+Install \
+Latest version of Tailwind \
+Latest version of PostCss \
+Latest version of autoprefixer \
 ```npm install -d tailwind@latest postcss@latest autoprefixer@latest```
 
 
